@@ -1,0 +1,61 @@
+h1{
+    position: absolute;
+    left: 40%;
+    font: bold;
+    color: darkblue;
+    font-size: 40px;
+}
+
+h2{
+    position: absolute;
+    left: 40%;
+    top: 125px;
+    font: bold;
+    font-size: 28px;
+}
+
+h3{
+    position:absolute;
+    left: 30%;
+    top: 230px;
+    font-size:  25px;
+}
+
+h4{
+    position:absolute;
+    left: 30%;
+    top: 295px;
+    font-size:  25px;
+}
+
+h5{
+    position:absolute;
+    left: 30%;
+    top: 365px;
+    font-size:  25px;
+}
+
+h6{
+    position:absolute;
+    left: 30%;
+    top: 425px;
+    font-size:  25px;
+}
+
+#b1{position: absolute;left: 40%;top: 250px;font-size:  25px;background-color: darkgoldenrod;}
+
+#b2{position: absolute;left: 40%;top:325px;font-size:  25px;background-color: darkgoldenrod;}
+
+#b3{position: absolute;left: 40%;top: 400px;font-size:  25px;background-color: darkgoldenrod;}
+
+#b4{position: absolute;left: 40%;top:475px;font-size:  25px;background-color: darkgoldenrod;}
+
+#b5{position: absolute;left: 50%;top: 250px;  font-size:  25px;background-color:indianred;}
+
+#b6{position: absolute;left: 50%;top: 325px;   font-size:  25px;background-color:indianred;}
+
+#b7{position: absolute;left: 50%;top: 400px; font-size:  25px;background-color:indianred;}
+
+#b8{position: absolute;left: 50%;top: 475px;font-size:  25px;background-color:indianred;}
+
+#b9{position: absolute;left: 43%;top: 530px;font-size: 25px;}
